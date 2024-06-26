@@ -17,7 +17,7 @@
 
 ## 4. Handling Conflicts
 - Understanding merge conflicts
-- Resolving conflicts in the command line and using GUI tools
+- Resolving conflicts using GUI tools
 - Best practices to avoid conflicts
 
 ## 5. Advanced Collaboration Features
